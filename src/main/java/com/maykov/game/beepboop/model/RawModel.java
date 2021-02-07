@@ -1,5 +1,11 @@
 package com.maykov.game.beepboop.model;
 
+
+/**
+ * This class stores the integer location of the VAO. The VAO stores important information about the vertices, normal vectors, and texture maps for an object. 
+ * 
+ * 
+ */
 public class RawModel {
     private int vaoId;
     private int vertexCount;

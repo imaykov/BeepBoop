@@ -1,0 +1,20 @@
+<factorypath>
+    <factorypathentry kind="EXTJAR" id="D:\Users\Ivan\Documents\code\BeepBoop\lib\slick-util.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-awt/RELEASE122/org-openide-awt-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-netbeans-api-annotations-common/RELEASE122/org-netbeans-api-annotations-common-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-filesystems/RELEASE122/org-openide-filesystems-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util-ui/RELEASE122/org-openide-util-ui-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util/RELEASE122/org-openide-util-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util-lookup/RELEASE122/org-openide-util-lookup-RELEASE122.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/l33tlabs/twl/pngdecoder/1.0/pngdecoder-1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/lwjgl/lwjgl/lwjgl_util/2.9.3/lwjgl_util-2.9.3.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

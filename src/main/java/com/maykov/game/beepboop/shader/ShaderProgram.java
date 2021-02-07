@@ -9,7 +9,9 @@ import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.GL20;
 import org.lwjgl.util.vector.Matrix4f;
+import org.lwjgl.util.vector.Vector2f;
 import org.lwjgl.util.vector.Vector3f;
+import org.lwjgl.util.vector.Vector4f;
 
 public abstract class ShaderProgram {
     private int programId;
@@ -60,12 +62,24 @@ public abstract class ShaderProgram {
         GL20.glBindAttribLocation(programId, attr, variableName);
     }
 
+    protected void loadInt(int location, int value) {
+        GL20.glUniform1i(location, value);
+    }
+
     protected void loadFloat(int location, float value) {
         GL20.glUniform1f(location, value);
     }
 
+    protected void loadVector(int location, Vector2f value) {
+        GL20.glUniform2f(location, value.x, value.y);
+    }
+
     protected void loadVector(int location, Vector3f vector) {
         GL20.glUniform3f(location, vector.x, vector.y, vector.z);
+    }
+
+    protected void loadVector(int location, Vector4f vector) {
+        GL20.glUniform4f(location, vector.x, vector.y, vector.z, vector.w);
     }
 
     protected void loadBoolean(int location, boolean value) {

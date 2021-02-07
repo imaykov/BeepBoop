@@ -2,6 +2,12 @@ package com.maykov.game.beepboop.model;
 
 import com.maykov.game.beepboop.texture.ModelTexture;
 
+
+/**
+ * 
+ * 
+ * 
+ */
 public class TexturedModel {
     private RawModel rawModel;
     private ModelTexture texture;
